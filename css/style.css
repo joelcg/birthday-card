@@ -129,7 +129,7 @@ font-family: 'Indie Flower', cursive;
 #card-front button {
   position: absolute;
   bottom: 1em;
-  right: -12px;
+  right: -6px;
   background: #F44;
   color: #FFF;
   font-family: 'Lobster', cursive;
